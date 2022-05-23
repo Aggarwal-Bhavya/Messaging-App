@@ -14,3 +14,11 @@ The segregation of product architecture based on tools used is as follows:
 - **HTML, CSS-** To create site's user interface and layout
 - **React-** Site's core functionality and frontend features
 - **Socket.io-** Used for bidirectional real-time communication
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87543207/169860702-785cb765-ef5e-4e2e-96ea-2c7abc290841.png" width="900" title="hover text">
+</p>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87543207/169860966-85351c84-66f5-4b26-8a0b-0f55ccf5959d.png" width="900" title="hover text">
+</p>
